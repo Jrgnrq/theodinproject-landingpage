@@ -1,0 +1,46 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    display: flex;
+}
+
+.header-links{
+    display: flex;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.wev-awe-img{
+    display: flex;
+}
+
+.sri{
+    display: flex;
+    flex-direction: column;
+}
+
+.sri-images{
+    display: flex;
+}
+
+.quote{
+    display: flex;
+    flex-direction: column;
+}
+
+.cta-su{
+    display: flex;
+}
+
+.footer{
+    display: flex;
+}
